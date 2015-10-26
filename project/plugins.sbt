@@ -10,7 +10,5 @@ resolvers ++= Seq(
 addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.4.2")
 
 // ConductR
-
-addSbtPlugin("com.typesafe.conductr" % "sbt-conductr" % "1.1.1")
 addSbtPlugin("com.typesafe.conductr" % "sbt-conductr-sandbox" % "1.1.2")
 
